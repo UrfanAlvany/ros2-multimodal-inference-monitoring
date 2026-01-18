@@ -1,0 +1,5 @@
+[console_scripts]
+camera_pub = day2_multimodal.camera_pub:main
+kinematics_pub = day2_multimodal.kinematics_pub:main
+sync_monitor = day2_multimodal.sync_monitor:main
+

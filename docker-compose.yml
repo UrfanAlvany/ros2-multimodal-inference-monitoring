@@ -1,0 +1,9 @@
+services:
+  dev:
+    build: .
+    container_name: orx_ros2_dev
+    volumes:
+      - ./:/ws
+    working_dir: /ws
+    tty: true
+    stdin_open: true

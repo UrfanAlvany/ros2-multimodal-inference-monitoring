@@ -1,0 +1,4 @@
+[console_scripts]
+listener = day1_pubsub.listener:main
+talker = day1_pubsub.talker:main
+

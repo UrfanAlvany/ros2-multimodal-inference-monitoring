@@ -1,0 +1,42 @@
+[0.292s] Invoking command in '/ws/ros2_ws/src/day2_multimodal': PYTHONPATH=/ws/ros2_ws/src/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/day2_multimodal build --build-base /ws/ros2_ws/src/build/day2_multimodal/build install --record /ws/ros2_ws/src/build/day2_multimodal/install.log --single-version-externally-managed install_data
+[0.365s] running egg_info
+[0.366s] creating ../build/day2_multimodal/day2_multimodal.egg-info
+[0.366s] writing ../build/day2_multimodal/day2_multimodal.egg-info/PKG-INFO
+[0.367s] writing dependency_links to ../build/day2_multimodal/day2_multimodal.egg-info/dependency_links.txt
+[0.367s] writing entry points to ../build/day2_multimodal/day2_multimodal.egg-info/entry_points.txt
+[0.367s] writing requirements to ../build/day2_multimodal/day2_multimodal.egg-info/requires.txt
+[0.368s] writing top-level names to ../build/day2_multimodal/day2_multimodal.egg-info/top_level.txt
+[0.368s] writing manifest file '../build/day2_multimodal/day2_multimodal.egg-info/SOURCES.txt'
+[0.371s] reading manifest file '../build/day2_multimodal/day2_multimodal.egg-info/SOURCES.txt'
+[0.372s] writing manifest file '../build/day2_multimodal/day2_multimodal.egg-info/SOURCES.txt'
+[0.373s] running build
+[0.373s] running build_py
+[0.374s] creating /ws/ros2_ws/src/build/day2_multimodal/build
+[0.374s] creating /ws/ros2_ws/src/build/day2_multimodal/build/lib
+[0.375s] creating /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal
+[0.375s] copying day2_multimodal/camera_pub.py -> /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal
+[0.375s] copying day2_multimodal/kinematics_pub.py -> /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal
+[0.376s] copying day2_multimodal/__init__.py -> /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal
+[0.378s] copying day2_multimodal/sync_monitor.py -> /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal
+[0.379s] running install
+[0.380s] running install_lib
+[0.380s] creating /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal
+[0.381s] copying /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal/camera_pub.py -> /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal
+[0.381s] copying /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal/kinematics_pub.py -> /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal
+[0.382s] copying /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal/__init__.py -> /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal
+[0.383s] copying /ws/ros2_ws/src/build/day2_multimodal/build/lib/day2_multimodal/sync_monitor.py -> /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal
+[0.384s] byte-compiling /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal/camera_pub.py to camera_pub.cpython-310.pyc
+[0.385s] byte-compiling /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal/kinematics_pub.py to kinematics_pub.cpython-310.pyc
+[0.386s] byte-compiling /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal/__init__.py to __init__.cpython-310.pyc
+[0.388s] byte-compiling /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal/sync_monitor.py to sync_monitor.cpython-310.pyc
+[0.389s] running install_data
+[0.389s] creating /ws/ros2_ws/src/install/day2_multimodal/share/ament_index
+[0.390s] creating /ws/ros2_ws/src/install/day2_multimodal/share/ament_index/resource_index
+[0.390s] creating /ws/ros2_ws/src/install/day2_multimodal/share/ament_index/resource_index/packages
+[0.391s] copying resource/day2_multimodal -> /ws/ros2_ws/src/install/day2_multimodal/share/ament_index/resource_index/packages
+[0.395s] copying package.xml -> /ws/ros2_ws/src/install/day2_multimodal/share/day2_multimodal
+[0.396s] running install_egg_info
+[0.396s] Copying ../build/day2_multimodal/day2_multimodal.egg-info to /ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal-0.0.0-py3.10.egg-info
+[0.402s] running install_scripts
+[0.415s] writing list of installed files to '/ws/ros2_ws/src/build/day2_multimodal/install.log'
+[0.425s] Invoked command in '/ws/ros2_ws/src/day2_multimodal' returned '0': PYTHONPATH=/ws/ros2_ws/src/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/src/install/day2_multimodal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/day2_multimodal build --build-base /ws/ros2_ws/src/build/day2_multimodal/build install --record /ws/ros2_ws/src/build/day2_multimodal/install.log --single-version-externally-managed install_data

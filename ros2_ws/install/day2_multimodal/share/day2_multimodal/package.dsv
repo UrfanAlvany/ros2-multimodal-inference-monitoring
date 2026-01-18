@@ -1,0 +1,9 @@
+source;share/day2_multimodal/hook/pythonpath.ps1
+source;share/day2_multimodal/hook/pythonpath.dsv
+source;share/day2_multimodal/hook/pythonpath.sh
+source;share/day2_multimodal/hook/ament_prefix_path.ps1
+source;share/day2_multimodal/hook/ament_prefix_path.dsv
+source;share/day2_multimodal/hook/ament_prefix_path.sh
+source;../../build/day2_multimodal/share/day2_multimodal/hook/pythonpath_develop.ps1
+source;../../build/day2_multimodal/share/day2_multimodal/hook/pythonpath_develop.dsv
+source;../../build/day2_multimodal/share/day2_multimodal/hook/pythonpath_develop.sh

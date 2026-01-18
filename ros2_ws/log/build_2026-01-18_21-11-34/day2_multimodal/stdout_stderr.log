@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing day2_multimodal.egg-info/PKG-INFO
+writing dependency_links to day2_multimodal.egg-info/dependency_links.txt
+writing entry points to day2_multimodal.egg-info/entry_points.txt
+writing requirements to day2_multimodal.egg-info/requires.txt
+writing top-level names to day2_multimodal.egg-info/top_level.txt
+reading manifest file 'day2_multimodal.egg-info/SOURCES.txt'
+writing manifest file 'day2_multimodal.egg-info/SOURCES.txt'
+running build_ext
+Creating /ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages/day2-multimodal.egg-link (link to .)
+
+Installed /ws/ros2_ws/build/day2_multimodal
+running symlink_data
+symbolically linking /ws/ros2_ws/build/day2_multimodal/resource/day2_multimodal -> /ws/ros2_ws/install/day2_multimodal/share/ament_index/resource_index/packages
+symbolically linking /ws/ros2_ws/build/day2_multimodal/package.xml -> /ws/ros2_ws/install/day2_multimodal/share/day2_multimodal

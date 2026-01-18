@@ -1,0 +1,25 @@
+[0.169s] Invoking command in '/ws/ros2_ws/src/day1_pubsub': PYTHONPATH=/ws/ros2_ws/build/day1_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/day1_pubsub build --build-base /ws/ros2_ws/build/day1_pubsub/build install --record /ws/ros2_ws/build/day1_pubsub/install.log --single-version-externally-managed install_data
+[0.230s] running egg_info
+[0.230s] writing ../../build/day1_pubsub/day1_pubsub.egg-info/PKG-INFO
+[0.231s] writing dependency_links to ../../build/day1_pubsub/day1_pubsub.egg-info/dependency_links.txt
+[0.232s] writing entry points to ../../build/day1_pubsub/day1_pubsub.egg-info/entry_points.txt
+[0.232s] writing requirements to ../../build/day1_pubsub/day1_pubsub.egg-info/requires.txt
+[0.232s] writing top-level names to ../../build/day1_pubsub/day1_pubsub.egg-info/top_level.txt
+[0.235s] reading manifest file '../../build/day1_pubsub/day1_pubsub.egg-info/SOURCES.txt'
+[0.236s] writing manifest file '../../build/day1_pubsub/day1_pubsub.egg-info/SOURCES.txt'
+[0.236s] running build
+[0.236s] running build_py
+[0.236s] copying day1_pubsub/talker.py -> /ws/ros2_ws/build/day1_pubsub/build/lib/day1_pubsub
+[0.237s] running install
+[0.238s] running install_lib
+[0.238s] copying /ws/ros2_ws/build/day1_pubsub/build/lib/day1_pubsub/talker.py -> /ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages/day1_pubsub
+[0.239s] byte-compiling /ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages/day1_pubsub/talker.py to talker.cpython-310.pyc
+[0.241s] running install_data
+[0.241s] running install_egg_info
+[0.242s] removing '/ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages/day1_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.243s] Copying ../../build/day1_pubsub/day1_pubsub.egg-info to /ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages/day1_pubsub-0.0.0-py3.10.egg-info
+[0.248s] running install_scripts
+[0.255s] Installing listener script to /ws/ros2_ws/install/day1_pubsub/lib/day1_pubsub
+[0.255s] Installing talker script to /ws/ros2_ws/install/day1_pubsub/lib/day1_pubsub
+[0.256s] writing list of installed files to '/ws/ros2_ws/build/day1_pubsub/install.log'
+[0.265s] Invoked command in '/ws/ros2_ws/src/day1_pubsub' returned '0': PYTHONPATH=/ws/ros2_ws/build/day1_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day1_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/day1_pubsub build --build-base /ws/ros2_ws/build/day1_pubsub/build install --record /ws/ros2_ws/build/day1_pubsub/install.log --single-version-externally-managed install_data

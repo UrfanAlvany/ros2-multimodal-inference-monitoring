@@ -1,0 +1,19 @@
+[0.277s] Invoking command in '/ws/ros2_ws/build/day2_multimodal': PYTHONPATH=/ws/ros2_ws/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/build/day2_multimodal/build --no-deps symlink_data
+[0.359s] running develop
+[0.407s] running egg_info
+[0.407s] writing day2_multimodal.egg-info/PKG-INFO
+[0.409s] writing dependency_links to day2_multimodal.egg-info/dependency_links.txt
+[0.410s] writing entry points to day2_multimodal.egg-info/entry_points.txt
+[0.411s] writing requirements to day2_multimodal.egg-info/requires.txt
+[0.411s] writing top-level names to day2_multimodal.egg-info/top_level.txt
+[0.417s] reading manifest file 'day2_multimodal.egg-info/SOURCES.txt'
+[0.417s] writing manifest file 'day2_multimodal.egg-info/SOURCES.txt'
+[0.419s] running build_ext
+[0.420s] Creating /ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages/day2-multimodal.egg-link (link to .)
+[0.420s] Installing camera_pub script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.421s] Installing kinematics_pub script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.423s] Installing sync_monitor script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.424s] 
+[0.424s] Installed /ws/ros2_ws/build/day2_multimodal
+[0.424s] running symlink_data
+[0.436s] Invoked command in '/ws/ros2_ws/build/day2_multimodal' returned '0': PYTHONPATH=/ws/ros2_ws/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /ws/ros2_ws/build/day2_multimodal/build --no-deps symlink_data

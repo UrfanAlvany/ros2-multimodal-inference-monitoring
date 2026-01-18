@@ -1,0 +1,23 @@
+[0.251s] Invoking command in '/ws/ros2_ws/src/day2_multimodal': PYTHONPATH=/ws/ros2_ws/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/day2_multimodal build --build-base /ws/ros2_ws/build/day2_multimodal/build install --record /ws/ros2_ws/build/day2_multimodal/install.log --single-version-externally-managed install_data
+[0.315s] running egg_info
+[0.316s] writing ../../build/day2_multimodal/day2_multimodal.egg-info/PKG-INFO
+[0.316s] writing dependency_links to ../../build/day2_multimodal/day2_multimodal.egg-info/dependency_links.txt
+[0.316s] writing entry points to ../../build/day2_multimodal/day2_multimodal.egg-info/entry_points.txt
+[0.317s] writing requirements to ../../build/day2_multimodal/day2_multimodal.egg-info/requires.txt
+[0.317s] writing top-level names to ../../build/day2_multimodal/day2_multimodal.egg-info/top_level.txt
+[0.319s] reading manifest file '../../build/day2_multimodal/day2_multimodal.egg-info/SOURCES.txt'
+[0.320s] writing manifest file '../../build/day2_multimodal/day2_multimodal.egg-info/SOURCES.txt'
+[0.320s] running build
+[0.320s] running build_py
+[0.321s] running install
+[0.322s] running install_lib
+[0.322s] running install_data
+[0.323s] running install_egg_info
+[0.323s] removing '/ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal-0.0.0-py3.10.egg-info' (and everything under it)
+[0.323s] Copying ../../build/day2_multimodal/day2_multimodal.egg-info to /ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages/day2_multimodal-0.0.0-py3.10.egg-info
+[0.340s] running install_scripts
+[0.348s] Installing camera_pub script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.349s] Installing kinematics_pub script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.349s] Installing sync_monitor script to /ws/ros2_ws/install/day2_multimodal/lib/day2_multimodal
+[0.351s] writing list of installed files to '/ws/ros2_ws/build/day2_multimodal/install.log'
+[0.361s] Invoked command in '/ws/ros2_ws/src/day2_multimodal' returned '0': PYTHONPATH=/ws/ros2_ws/build/day2_multimodal/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/ros2_ws/install/day2_multimodal/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/day2_multimodal build --build-base /ws/ros2_ws/build/day2_multimodal/build install --record /ws/ros2_ws/build/day2_multimodal/install.log --single-version-externally-managed install_data
